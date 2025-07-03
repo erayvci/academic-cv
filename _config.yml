@@ -3,9 +3,9 @@ description: I designed this website to publish my academic CV and papers.
 theme: just-the-docs
 
 navigation:
-  - title: Home
+  - title: home
     url: /home/
-  - title: Papers
+  - title: papers
     url: /papers/
 
 url: https://erayvci.github.io/academic-cv/
