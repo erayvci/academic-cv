@@ -2,6 +2,12 @@ title: Selam!
 description: I designed this website to publish my academic CV and papers.
 theme: just-the-docs
 
+navigation:
+  - title: Home
+    url: /home/
+  - title: Papers
+    url: /papers/
+
 url: https://erayvci.github.io/academic-cv/
 
 aux_links:
