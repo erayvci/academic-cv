@@ -1,9 +1,8 @@
 ---
-
+title: Home
 layout: home
-title: home
-
 ---
+
 # Salam! Welcome to My Personal Academic Website
 
 Hello, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's ISME program. This website showcases my academic journey, publications, experiences, and skills. My works usually focus on Turkologie and Islamic Studies . Explore the sections below to learn more about my background and contributions.
@@ -46,6 +45,9 @@ Feel free to connect with me through the following platforms:
 - **LinkedIn**: [Mehmet Eray Avcı](https://www.linkedin.com/in/erayavci/)
 - **GitHub**: [erayvci](https://github.com/erayvci)
 
+----
+
+[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
@@ -53,4 +55,3 @@ Feel free to connect with me through the following platforms:
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-
