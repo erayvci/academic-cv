@@ -2,6 +2,9 @@
 
 Welcome to this website repo of mine, which I use as a place to showcase my CV and papers. I prepared this website via Just-The-Docs theme.
 
+Please visit: https://erayvci.github.io/academic-cv/
+
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
