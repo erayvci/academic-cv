@@ -8,7 +8,8 @@ layout: home
 Hello, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's ISME program. This website showcases my academic journey, publications, experiences, and skills. My works usually focus on Turkologie and Islamic Studies . Explore the sections below to learn more about my background and contributions.
 
 
-![Me.](IMG_0587.jpEg)
+<img src="IMG_0587.jpeg" alt="Me" width="300">
+
 
 ## Experience
 
@@ -18,15 +19,15 @@ Hello, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's 
 
 ## Education
 
-- **M.A. in [Interdisciplinary Studies of The Middle East]**, [Freie Universitat Berlin], [Berlin, GER], [Oct24–...]
-- **B.A. in [Turkish Language and Literature]**, [Boğaziçi University], [Istanbul, TUR], [SEPT2019–AUG2024]
-- **Non-Degree Visiting Student in [Near Eastern Languages and Civilizations]**, [University of Chicago], [Chicago,IL,USA], [SEPT23–DEC23]
+- **M.A. in Interdisciplinary Studies of The Middle East**, Freie Universitat Berlin, Berlin, GER, Oct24–...
+- **B.A. in Turkish Language and Literature**, Boğaziçi University, Istanbul, TUR, SEPT2019–AUG2024
+- **Non-Degree Visiting Student in Near Eastern Languages and Civilizations**, University of Chicago, Chicago,IL,USA, SEPT23–DEC23
 
 ## Skills
 
-- **Technical Skills**: [ Website Building, Data Mapping]
-- **Research Skills**: [ Data Analysis, Data Visualizing]
-- **Other**: [ Academic Writing, Project Management, Teaching Turkish as a Foreign Language ]
+- **Technical Skills**:  Website Building, Data Mapping
+- **Research Skills**:  Data Analysis, Data Visualizing
+- **Other**:  Academic Writing, Project Management, Teaching Turkish as a Foreign Language 
 
 ## Languages
 
