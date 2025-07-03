@@ -1,14 +1,32 @@
 ---
+layout: Home
 title: Home
-layout: home
----
+--- 
+<style>
 
-# Salam! Welcome to My Personal Academic Website
+ 
+.container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .text {
+    flex: 1;
+  }
+  .image {
+    flex: 0 0 auto;
+  }
+</style>
 
-Hello, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's ISME program. This website showcases my academic journey, publications, experiences, and skills. My works usually focus on Turkologie and Islamic Studies . Explore the sections below to learn more about my background and contributions.
+<div class="container">
+  <div class="text">
+    <p>Hi, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's ISME program. This website showcases my academic journey, publications, experiences, and skills. My works usually focus on Turkologie and Islamic Studies . Explore the sections below to learn more about my background and contributions.</p>
+  </div>
+  <div class="image">
+    <img src="IMG_0587.jpeg" alt="Me" width="300">
+  </div>
+</div>
 
-
-<img src="IMG_0587.jpeg" alt="Me" width="300">
 
 
 ## Experience
