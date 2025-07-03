@@ -1,6 +1,6 @@
 # Mehmet Eray Avcı's Academic CV Website
 
-Welcome to this website repo of me, which I use as a place to showcase my CV and papers. I prepared this website via Just-The-Docs theme.
+Welcome to this website repo of mine, which I use as a place to showcase my CV and papers. I prepared this website via Just-The-Docs theme.
 
 ----
 
