@@ -9,6 +9,7 @@ navigation:
     url: /papers/
 
 url: https://erayvci.github.io/academic-cv/
-
+include:
+  - papers
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
