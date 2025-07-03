@@ -7,12 +7,13 @@ layout: home
 
 Hello, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's ISME program. This website showcases my academic journey, publications, experiences, and skills. My works usually focus on Turkologie and Islamic Studies . Explore the sections below to learn more about my background and contributions.
 
-<img src="IMG_0587.jpEg" alt="Me." width="300">
+
+![Me.](IMG_0587.jpEg)
 
 ## Experience
 
-- **Analyste**, [KONDA Research and Consultancy], [Istanbul, TUR], [SEPT21-JAN23]
-  - [Conducted interviews with participants, analyzed and visualized to data.]
+- **Interview Analyst**, KONDA Research and Consultancy, Istanbul, TUR, SEPT21-JAN23
+  - Conducted interviews with participants, analyzed and visualized to data.
 
 
 ## Education
@@ -31,9 +32,9 @@ Hello, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's 
 
 - English: Fluent
 - Turkish: Native
--Ottoman Turkish: Reading
--Arabic: Elementary
--German: Elementary
+- Ottoman Turkish: Reading
+- Arabic: Elementary
+- German: Elementary
 
 
 ## Contact & Links
