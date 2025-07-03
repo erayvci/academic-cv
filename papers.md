@@ -1,10 +1,10 @@
-```markdown
+
 ---
-layout: page
+layout: default
 title: papers
 ---
 
-permalink: /papers/papers
+permalink: /papers/
 
 Below is a list of my papers:
 
