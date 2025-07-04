@@ -1,6 +1,8 @@
 ---
 title: home
 layout: home
+nav_order: 1
+
 --- 
 
 <style>
@@ -28,15 +30,18 @@ layout: home
 
 ## Experience
 
-- **Interview Analyst**, KONDA Research and Consultancy, Istanbul, TUR, SEPT21-JAN23
+- **Primary Source Reader**, LexiQamus, Remote, JAN25-...
+  - Digitizing the Lehçe-i Osmani Dictionary by Ahmet Vefik Paşa.
+
+- **Interview Analyst**, KONDA Research and Consultancy, Istanbul-TUR, SEPT21-JAN23
   - Conducted interviews with participants, analyzed and visualized to data.
 
 
 ## Education
 
-- **M.A. in Interdisciplinary Studies of The Middle East**, Freie Universitat Berlin, Berlin, GER, Oct24–...
-- **B.A. in Turkish Language and Literature**, Boğaziçi University, Istanbul, TUR, SEPT2019–AUG2024
-- **Non-Degree Visiting Student in Near Eastern Languages and Civilizations**, University of Chicago, Chicago,IL,USA, SEPT23–DEC23
+- **M.A. in Interdisciplinary Studies of The Middle East**, Freie Universitat Berlin, Berlin-GER, OCT24–...
+- **B.A. in Turkish Language and Literature**, Boğaziçi University, Istanbul-TUR, SEPT2019–AUG2024
+- **Non-Degree Visiting Student in Near Eastern Languages and Civilizations**, University of Chicago, Chicago-IL-USA, SEPT23–DEC23
 
 ## Skills
 
