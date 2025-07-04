@@ -9,6 +9,6 @@ nav_order: 2
 
 Below is a list of my papers:
 
-A review of the history of the Mosques in Berlin  (papers/BerlinMosquesFinal.pdf)
+A review of the history of the Mosques in Berlin  (/assets/pdfs/FUBerlin1.pdf)
 An analysis to an Ottoman letter about Aziz Mahmud Hüdayi (papers/OttomanLetterFU.pdf)
 
