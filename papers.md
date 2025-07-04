@@ -1,5 +1,5 @@
 ---
-title: Yeni Sayfa Başlığı
+title: papers
 layout: default
 nav_order: 2
 ---
