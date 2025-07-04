@@ -1,10 +1,11 @@
-
 ---
+title: Yeni Sayfa Başlığı
 layout: default
-title: papers
+nav_order: 2
 ---
 
-permalink: /papers/
+# Yeni Sayfa Başlığı
+
 
 Below is a list of my papers:
 
