@@ -1,0 +1,7 @@
+```css
+.rounded-image {
+    border-radius: 50%;
+    width: 150px; /* Fotoğrafın boyutunu ayarlayın */
+    height: 150px; /* Kare bir fotoğraf için aynı boyutta olmalı */
+    object-fit: cover; /* Fotoğrafın taşmasını önler */
+}
