@@ -23,7 +23,7 @@ nav_order: 1
     <p>Hi, I am Mehmet Eray Avcı, a graduate student at Freie Universitat Berlin's ISME program. This website showcases my academic journey, publications, experiences, and skills. My works usually focus on Turkologie and Islamic Studies . Explore the sections below to learn more about my background and contributions.</p>
   </div>
   <div class="image">
-    <img src="IMG_0587.jpeg" alt="Me" width="300">
+    <img src="IMG_0587.jpeg" class="rounded-image" alt="Me" width="300">
   </div>
 </div>
 
